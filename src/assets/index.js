@@ -43,6 +43,15 @@ import ai from "./brands/there-is-ai-for-that.svg";
 import skinny from "./brands/theskinny.svg";
 import meme from "./brands/what-do-you-meme.svg";
 
+import axios from "./features/axios.svg";
+import fast from "./features/fast-company.svg";
+import forbes from "./features/forbes.svg";
+import gma from "./features/GMA.svg";
+import insider from "./features/insider.svg";
+import tech from "./features/techCrunch.svg";
+import wired from "./features/wired.svg";
+import vanity from "./features/vanity.svg";
+
 export {
   create,
   grow,
@@ -87,4 +96,12 @@ export {
   ai,
   skinny,
   meme,
+  axios,
+  fast,
+  forbes,
+  gma,
+  insider,
+  tech,
+  wired,
+  vanity,
 };
