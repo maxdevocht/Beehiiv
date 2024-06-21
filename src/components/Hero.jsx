@@ -1,4 +1,4 @@
-import { bgImg, starOne } from "../assets";
+import { starOne } from "../assets";
 
 const Hero = () => {
   return (
