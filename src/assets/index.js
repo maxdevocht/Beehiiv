@@ -10,6 +10,7 @@ import shaan from "./design/Shaan-1.png";
 import starOne from "./design/SVG1.webp";
 import starTwo from "./design/SVG2.webp";
 import circle from "./design/SVG3.webp";
+import bgImg from "./design/bg.webp";
 
 import awa from "./brands/awa.svg";
 import blockworks from "./brands/blockworks.svg";
@@ -65,6 +66,7 @@ export {
   starOne,
   starTwo,
   circle,
+  bgImg,
   awa,
   blockworks,
   bossbabe,
