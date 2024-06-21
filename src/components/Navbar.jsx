@@ -12,7 +12,7 @@ const Navbar = () => {
             height={48}
             className="relative"
           />{" "}
-          <p className="font-manrope font-extrabold text-2xl">Beehiiv</p>
+          <p className="font-manrope font-bold text-2xl">Beehiiv</p>
         </a>
         <nav className="navigation flex items-center font-medium lg:gap-2">
           <a
